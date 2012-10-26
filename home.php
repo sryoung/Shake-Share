@@ -28,8 +28,8 @@
 		<div data-role="content">	
 		<h2>Welcome to SHAKE <span id="username"></span></h2>
 		
-		<p><a href="shake.js/" data-role="button">Drop Off</a></p>	
-		<p><a href="shake.js/" data-role="button">Pick Up</a></p>	
+		<p><a href="shake.php" data-role="button">Drop Off</a></p>	
+		<p><a href="shake.php" data-role="button">Pick Up</a></p>	
 
 	</div><!-- /content -->
 		
